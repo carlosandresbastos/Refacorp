@@ -1,0 +1,5 @@
+C:\Users\Exsis\Desktop\Web\RefacorpWeb\RefacorpWeb\obj\Debug\RefacorpWeb.csprojResolveAssemblyReference.cache
+C:\Users\Exsis\Desktop\Web\RefacorpWeb\RefacorpWeb\bin\RefacorpWeb.dll
+C:\Users\Exsis\Desktop\Web\RefacorpWeb\RefacorpWeb\bin\RefacorpWeb.pdb
+C:\Users\Exsis\Desktop\Web\RefacorpWeb\RefacorpWeb\obj\Debug\RefacorpWeb.dll
+C:\Users\Exsis\Desktop\Web\RefacorpWeb\RefacorpWeb\obj\Debug\RefacorpWeb.pdb
